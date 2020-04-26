@@ -59,7 +59,7 @@ body {
 
 .todo__tarefas-lista li {
     border-bottom: 1px solid #ccc;
-    padding: 1rem;
+    padding: 0.5rem;
     font-size: 1rem;
     list-style: none;
     padding-left: 2rem;
@@ -83,11 +83,13 @@ body {
     justify-content: center;
 }
 
-button {
+.todo__btn-container button {
     padding: 0.7rem;
     margin: 0.5rem 1rem;
     border-color: #ecc4ff;
     border-radius: 14.5px;
     background-color: #ecc4ff;
-    cursor: pointer; 
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
 } 
