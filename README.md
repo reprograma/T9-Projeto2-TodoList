@@ -19,7 +19,7 @@ T9 | Front-end | 2020 | Semana 8 | Projeto JS
 **BÔNUS**
 
     - Marcar todos os itens como feito
-    - Limpar lista, excluir todos os itens da lista
+    - Excluir todos os itens da lista
     - Reorganizar a ordem "arrastando" os cards utilizando drag and drop
 
 --------------
@@ -33,7 +33,9 @@ T9 | Front-end | 2020 | Semana 8 | Projeto JS
 --------------
 ## Links Úteis
 
-[https://developer.mozilla.org/pt-BR/docs/Web/API/Element/addEventListener]
-[https://www.w3schools.com/js/js_htmldom_nodes.asp]
-[https://developer.mozilla.org/pt-BR/docs/Web/Events]
+https://developer.mozilla.org/pt-BR/docs/Web/API/Element/addEventListener
+
+https://www.w3schools.com/js/js_htmldom_nodes.asp
+
+https://developer.mozilla.org/pt-BR/docs/Web/Events
 
