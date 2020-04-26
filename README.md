@@ -15,8 +15,7 @@ T9 | Front-end | 2020 | Semana 8 | Projeto JS
     - Excluir itens individualmente
     - Validar campo de texto para não entrar itens vazios
     - Limpar campo de texto depois que insere o item na lista
-
-- **BÔNUS**
+    - **BÔNUS**
     - Marcar todos os itens como feito
     - Limpar lista, excluir todos os itens da lista
     - Reorganizar a ordem "arrastando" os cards utilizando drag and drop
