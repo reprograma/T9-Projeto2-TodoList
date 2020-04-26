@@ -32,6 +32,8 @@ T9 | Front-end | 2020 | Semana 8 | Projeto JS
 
 --------------
 ## Links Úteis
+**REGISTRE SUAS DÚVIDAS AQUI:**
+http://www.dontpad.com/t9-duvidas
 
 https://developer.mozilla.org/pt-BR/docs/Web/API/Element/addEventListener
 
